@@ -1,3 +1,5 @@
+//Lina project 12 
+
 var garden,rabbit,apple,orangeL,redL;
 var gardenImg,rabbitImg,carrotImg,orangeImg,redImg;
 
